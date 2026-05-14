@@ -185,36 +185,6 @@ That is the difference between a quick build and a real product.
 
 ---
 
-## Backend Philosophy
-
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.stack = [
-            "Python",
-            "FastAPI",
-            "Django",
-            "PostgreSQL",
-            "Redis",
-            "Docker",
-            "OpenAI",
-            "n8n",
-            "Zapier"
-        ]
-
-        self.focus = [
-            "clean architecture",
-            "reliable APIs",
-            "automation-first systems",
-            "production-ready AI",
-            "scalable infrastructure"
-        ]
-
-    def build(self):
-        return "systems that are simple to use, hard to break, and ready to scale"
-```
-
----
 
 ## GitHub Activity
 
