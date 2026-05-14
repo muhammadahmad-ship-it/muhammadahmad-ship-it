@@ -1,5 +1,5 @@
 # <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=38BDF8&width=700&lines=Python+Developer;FastAPI+Integration;Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=38BDF8&width=900&lines=Senior+Python+Backend+Engineer;FastAPI+%7C+Django+%7C+REST+API+Development;AI+Integration+%7C+OpenAI+%7C+LLM+Workflows;Automation+Engineer+%7C+n8n+%7C+Zapier;Backend+Systems+%7C+APIs+%7C+SaaS+Platforms;RAG+Pipelines+%7C+AI+Agents+%7C+Production+AI;PostgreSQL+%7C+MongoDB+%7C+Redis;Cloud+Deployment+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </p>
 
 ## Intro
