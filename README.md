@@ -1,31 +1,76 @@
-# Hi, I'm Muhammad 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=38BDF8&width=900&lines=Senior+Python+Backend+Engineer;FastAPI+%7C+Django+%7C+REST+API+Development;AI+Integration+%7C+OpenAI+%7C+LLM+Workflows;Automation+Engineer+%7C+n8n+%7C+Zapier;Backend+Systems+%7C+APIs+%7C+SaaS+Platforms;RAG+Pipelines+%7C+AI+Agents+%7C+Production+AI;PostgreSQL+%7C+MongoDB+%7C+Redis;Cloud+Deployment+%7C+Docker+%7C+AWS" alt="Typing SVG" />
-</p>
+# Muhammad A.  
+### Python Backend Engineer · FastAPI Specialist · AI Automation Builder
 
-## Intro
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+backend+systems+that+do+not+break+under+pressure.;Python+%7C+FastAPI+%7C+Django+%7C+REST+APIs;AI+Automation+%7C+LLM+Workflows+%7C+RAG+Systems;Backend+Architecture+%7C+Cloud+Deployment+%7C+SaaS;Clean+Code.+Scalable+Systems.+Real+Business+Impact." alt="Typing SVG" />
 
-I'm a **Python Backend Engineer & AI Engineer** with 8+ years of experience. I help startups and businesses build scalable backend systems, high-performance APIs, automation workflows, and production-ready AI applications.
+<br/>
 
-I design backend architectures using **Python, Django, FastAPI, REST APIs, microservices, PostgreSQL, Redis, Docker, and cloud platforms**. I also build AI systems using **OpenAI, LLMs, RAG pipelines, AI agents, vector databases, and automation tools like n8n and Zapier**.
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=38bdf8&style=flat" />
+<img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat&color=38bdf8" />
+<img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?label=Stars&style=flat&color=38bdf8" />
 
-My focus is simple: build systems that are clean, reliable, scalable, and ready for real users.
+</div>
 
-## Professional Highlights
+---
 
-- Architected scalable backend systems using Python, Django, FastAPI, Flask, Node.js, and microservices architecture
-- Built production-ready REST APIs, GraphQL APIs, WebSocket systems, and third-party API integrations
-- Developed AI-powered SaaS platforms, LLM workflows, RAG pipelines, and AI automation systems
-- Integrated OpenAI, AI agents, vector search, document processing, and intelligent workflow automation
-- Built automation systems using n8n, Zapier, Make, webhooks, APIs, and background job processing
-- Designed database systems using PostgreSQL, MongoDB, Redis, MySQL, Supabase, and Firebase
-- Developed full-stack applications using React, Next.js, Tailwind CSS, FastAPI, and Node.js
-- Built distributed systems using Celery, Redis, async Python, message queues, and event-driven architecture
-- Implemented secure SaaS platforms with authentication, RBAC, OAuth2, multi-tenancy, and data isolation
-- Deployed applications using Docker, AWS, Azure, GCP, Vercel, GitHub Actions, and CI/CD pipelines
+## I build the backend behind serious products.
 
-## My Skills
+Most products do not fail because the idea is bad.  
+They fail because the backend was not designed for scale, automation, speed, or real users.
+
+That is where I come in.
+
+I work on **Python backend systems, FastAPI integrations, AI-powered workflows, SaaS platforms, automation engines, and production-ready APIs**. My focus is not just writing code. I design systems that are easy to maintain, easy to extend, and strong enough to support actual business operations.
+
+I help teams move from:
+
+`manual work → automated workflows`  
+`slow APIs → fast and reliable backend systems`  
+`scattered tools → connected platforms`  
+`AI experiments → production-ready AI systems`
+
+---
+
+## Core Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Engineering
+
+- Python backend development
+- FastAPI and Django applications
+- REST API and GraphQL API development
+- Microservices architecture
+- Authentication and RBAC
+- Background jobs and queues
+- SaaS backend systems
+- Scalable database design
+
+</td>
+<td width="50%">
+
+### AI + Automation
+
+- OpenAI and LLM integrations
+- RAG pipelines
+- AI agents
+- Vector database workflows
+- n8n and Zapier automation
+- Webhook-based systems
+- Internal tool automation
+- Business process automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 ### Backend & Architecture
 
@@ -33,74 +78,56 @@ My focus is simple: build systems that are clean, reliable, scalable, and ready 
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express,rabbitmq,git" />
 </p>
 
-### AI & ML
+### AI, ML & Intelligent Systems
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-Systems-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Pipelines-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Agents-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector-Databases-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge" />
 </p>
 
 ### Automation & Integrations
 
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D28D9?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D28D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Automation-2563EB?style=for-the-badge" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,vite" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,postman,nginx" />
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI%20Integrations-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integrations-2563EB?style=for-the-badge" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,firebase" />
+</p>
+
+### Frontend Support
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,vite" />
 </p>
 
 ### Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,terraform,vercel" />
-</p>
-
-## What Makes Me Different
-
-I combine **Python Backend Engineering + FastAPI Integrations + AI Automation Systems** into one practical, production-ready architecture.
-
-*Most developers only build one piece. I design the backend, connect the APIs, automate the workflow, and make the system ready to scale.*
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?label=stars&style=flat" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,terraform,vercel,nginx" />
 </p>
 
 ---
 
-### Python Backend Developer · Django · FastAPI · REST API · Microservices · SaaS · LLM · RAG · AI Agents · Automation · n8n · Zapier · Vector Databases · PostgreSQL · Redis · Docker · AWS · Production-Ready AI
+## What I Usually Build
+
+```txt
+01. SaaS backend platforms
+02. FastAPI applications
+03. Django REST APIs
+04. AI-powered automation systems
+05. RAG-based knowledge assistants
+06. Internal business tools
+07. Webhook and third-party API integrations
+08. Multi-tenant backend systems
+09. Background job and queue systems
+10. Cloud-deployed production applications
