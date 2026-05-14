@@ -1,4 +1,6 @@
-# Hi, I'm Muhammad 👋
+# <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=38BDF8&width=700&lines=Python+Developer;FastAPI+Integration;Automation+Engineer" alt="Typing SVG" />
+</p>
 
 ## Intro
 
